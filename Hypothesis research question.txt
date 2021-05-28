@@ -1,0 +1,24 @@
+Hypothesis Test
+
+i) 
+Is there a difference in Maths mean score among students who's test preparation is "None" or "complete"
+
+Null hypothesis: There is no difference in Maths mean score among students who's test preparation is "None" or "complete"
+
+Alternate hypothesis: There is difference in Maths mean score among students who's test preparation is "None" or "complete"
+
+ii)
+Is there a difference in Reading mean score among students who's test preparation is "None" or "complete"
+
+Null hypothesis: There is no difference in Reading mean score among students who's test preparation is "None" or "complete"
+
+Alternate hypothesis: There is difference in Reading mean score among students who's test preparation is "None" or "complete"
+
+iii) 
+Is there a difference in Writing mean score among students who's test preparation is "None" or "complete"
+
+Null hypothesis: There is no difference in writing mean score among students who's test preparation is "None" or "complete"
+
+Alternate hypothesis: There is difference in writing mean score among students who's test preparation is "None" or "complete"
+
+
